@@ -1,0 +1,9 @@
+//TRABAJANDO CON STRING
+
+//METODOS MAS USADOS PARA STINDG
+var cadena1='esta es la cadena 1'
+console.log(cadena1.length) //tamaño de la cadena
+
+//Obtener parte de la cadena
+console.log(cadena1.slice(0,4))
+ 
